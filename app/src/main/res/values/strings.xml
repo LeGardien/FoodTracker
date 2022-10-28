@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Foodtracker</string>
+    <string name="please_enter_the_name_of_your_meal">Please enter the name of your meal</string>
+    <string name="how_many_calories">How many calories?</string>
+    <string name="please_enter_the_number_of_calories">Please enter the number of calories</string>
+    <string name="what">What?</string>
+    <string name="snack">Snack</string>
+    <string name="dinner">Dinner</string>
+    <string name="lunch">Lunch</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="when">When?</string>
+    <string name="what_did_you_eat">What did you eat?</string>
+    <string name="next">Next</string>
+    <string name="go_next">Go next 😎</string>
+    <string name="please_type_your_name">Please type your name</string>
+    <string name="hello_what_is_your_name">Hello what is your name?</string>
+</resources>
